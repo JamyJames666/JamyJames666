@@ -27,6 +27,7 @@ So, low stakes, real problems. Both things are true.
 | [**pool-leaderboard**](https://github.com/JamyJames666/pool-leaderboard) | The office 8-ball ladder. Quarterly ELO seasons, ball difference tie breaks, and a knockout cup every quarter. | "Who is actually best at pool" was an unwinnable argument. Now it has a number attached to it. |
 | [**overtime**](https://github.com/JamyJames666/overtime) | Counter-Strike 10-mans as a career rather than a scoreboard. Scrapes Popflash back to 2021, folds smurf accounts into one identity, and puts every player against every map. | Popflash shows you one match at a time, so nobody could prove who had been quietly losing us games for two years. |
 | [**jammy-beat-box**](https://github.com/JamyJames666/jammy-beat-box) | A self-hosted Discord music bot with a web dashboard, forked from [muse](https://github.com/museofficial/muse). Paste a 500 track Spotify playlist and run the room from a browser. | Skipping a song by typing a slash command, in a room full of people, is a bad interface. |
+| [**Pulse Engine**](https://github.com/JamyJames666/FITBIT) | Health data kept in Postgres rather than binned after a week, with thirteen model layers over it, all written out in TypeScript rather than called out to a Python service. | The app that came with the watch shows you last week and hands you advice without showing its working. |
 
 Plenty more sits in private repos. Some of it is half finished, some of it has other people's names and data in it, and some of it is just not interesting to anyone but me.
 
